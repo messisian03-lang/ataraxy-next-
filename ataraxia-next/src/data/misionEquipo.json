@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Estás liderando un equipo que no está cumpliendo los objetivos. ¿Cómo reaccionás primero?",
+    "opciones": [
+      { "id": "estrategico", "texto": "Revisaría el plan y ajustaría estrategias." },
+      { "id": "empatico", "texto": "Hablaría con el equipo para ver cómo se sienten." },
+      { "id": "directivo", "texto": "Daría instrucciones claras y ordenaría prioridades." },
+      { "id": "facilitador", "texto": "Crearía un espacio para que el equipo proponga soluciones." }
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "Un miembro del equipo tiene conflictos con otro. ¿Qué hacés?",
+    "opciones": [
+      { "id": "estrategico", "texto": "Analizo si afecta los objetivos y tomo medidas según impacto." },
+      { "id": "empatico", "texto": "Escucho a ambas partes y busco comprensión mutua." },
+      { "id": "directivo", "texto": "Intervengo y defino qué debe hacer cada uno." },
+      { "id": "facilitador", "texto": "Guío una conversación para que ambos acuerden una solución." }
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "El equipo está desmotivado. ¿Cuál es tu primer movimiento?",
+    "opciones": [
+      { "id": "estrategico", "texto": "Redefinir objetivos claros y medibles." },
+      { "id": "empatico", "texto": "Comprender la causa emocional o personal." },
+      { "id": "directivo", "texto": "Establecer rutinas o medidas para recuperar ritmo." },
+      { "id": "facilitador", "texto": "Crear dinámicas para involucrar a todos en la solución." }
+    ]
+  }
+]

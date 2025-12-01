@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "texto": "Me considero una persona extrovertida y sociable."
+  },
+  {
+    "id": 2,
+    "texto": "Prefiero planificar todo antes de actuar."
+  },
+  {
+    "id": 3,
+    "texto": "Me adapto fácilmente a los cambios."
+  },
+  {
+    "id": 4,
+    "texto": "Me gusta estar solo para recargar energías."
+  },
+  {
+    "id": 5,
+    "texto": "Soy una persona muy curiosa y me gusta aprender cosas nuevas."
+  },
+  {
+    "id": 6,
+    "texto": "Tiendo a evitar los conflictos siempre que sea posible."
+  },
+  {
+    "id": 7,
+    "texto": "Me siento cómodo liderando un grupo de personas."
+  },
+  {
+    "id": 8,
+    "texto": "Soy muy meticuloso/a con los detalles."
+  },
+  {
+    "id": 9,
+    "texto": "Siento empatía con facilidad por los demás."
+  },
+  {
+    "id": 10,
+    "texto": "Me estreso fácilmente ante la presión."
+  },
+  {
+    "id": 11,
+    "texto": "Puedo resolver problemas complejos de manera lógica."
+  },
+  {
+    "id": 12,
+    "texto": "Tengo buena capacidad para comunicar ideas claramente."
+  },
+  {
+    "id": 13,
+    "texto": "Soy hábil trabajando en equipo y cooperando con otros."
+  },
+  {
+    "id": 14,
+    "texto": "Tiendo a encontrar soluciones creativas a los problemas."
+  },
+  {
+    "id": 15,
+    "texto": "Tengo buena memoria para recordar detalles importantes."
+  },
+  {
+    "id": 16,
+    "texto": "Me considero una persona perseverante ante los desafíos."
+  },
+  {
+    "id": 17,
+    "texto": "Aprendo rápido cuando se me enseña algo nuevo."
+  },
+  {
+    "id": 18,
+    "texto": "Soy bueno/a analizando datos y patrones."
+  },
+  {
+    "id": 19,
+    "texto": "Tengo facilidad para organizar tareas y recursos."
+  },
+  {
+    "id": 20,
+    "texto": "Soy hábil con herramientas tecnológicas."
+  },
+  {
+    "id": 21,
+    "texto": "Valoro la honestidad por encima de todo."
+  },
+  {
+    "id": 22,
+    "texto": "La justicia y la equidad son muy importantes para mí."
+  },
+  {
+    "id": 23,
+    "texto": "Prefiero ayudar a otros antes que competir con ellos."
+  },
+  {
+    "id": 24,
+    "texto": "La libertad personal es uno de mis valores más importantes."
+  },
+  {
+    "id": 25,
+    "texto": "El compromiso con mis metas es fundamental para mí."
+  },
+  {
+    "id": 26,
+    "texto": "Valoro la innovación y el cambio."
+  },
+  {
+    "id": 27,
+    "texto": "Creo en el trabajo duro como camino al éxito."
+  },
+  {
+    "id": 28,
+    "texto": "La espiritualidad o la conexión interior es importante para mí."
+  },
+  {
+    "id": 29,
+    "texto": "Me importa mucho dejar un impacto positivo en el mundo."
+  },
+  {
+    "id": 30,
+    "texto": "Valoro profundamente la familia y los lazos personales."
+  },
+  {
+    "id": 31,
+    "texto": "Prefiero aprender viendo imágenes o diagramas."
+  },
+  {
+    "id": 32,
+    "texto": "Me resulta más fácil aprender cuando escucho explicaciones."
+  },
+  {
+    "id": 33,
+    "texto": "Necesito moverme o hacer algo para entender mejor."
+  },
+  {
+    "id": 34,
+    "texto": "Aprendo mejor resolviendo problemas prácticos."
+  },
+  {
+    "id": 35,
+    "texto": "Me gusta seguir un método paso a paso para resolver tareas."
+  },
+  {
+    "id": 36,
+    "texto": "Soy bueno/a sintetizando ideas complejas en conceptos simples."
+  },
+  {
+    "id": 37,
+    "texto": "Prefiero ver el panorama general antes que los detalles."
+  },
+  {
+    "id": 38,
+    "texto": "Tiendo a memorizar cosas con facilidad cuando las repito."
+  },
+  {
+    "id": 39,
+    "texto": "Me gusta usar esquemas y mapas mentales para estudiar."
+  },
+  {
+    "id": 40,
+    "texto": "Aprendo mejor cuando puedo explicar lo aprendido a otros."
+  },
+  {
+    "id": 41,
+    "texto": "Necesito silencio y orden para concentrarme bien."
+  },
+  {
+    "id": 42,
+    "texto": "Prefiero aprender por mi cuenta a seguir instrucciones rígidas."
+  },
+  {
+    "id": 43,
+    "texto": "Tiendo a hacer conexiones entre distintas áreas del conocimiento."
+  },
+  {
+    "id": 44,
+    "texto": "Soy más intuitivo que lógico al tomar decisiones."
+  },
+  {
+    "id": 45,
+    "texto": "Me gusta experimentar distintas formas de aprender."
+  }
+]
