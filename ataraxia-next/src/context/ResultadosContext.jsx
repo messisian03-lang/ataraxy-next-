@@ -91,8 +91,27 @@ function ensureGamificacion(base) {
   };
 }
 
+// --- PERFIL ---
+function ensurePerfil(base) {
+  const p = base.perfil || {};
+  return {
+    ...base,
+    perfil: {
+      nombre: typeof p.nombre === "string" ? p.nombre : "",
+      pais: typeof p.pais === "string" ? p.pais : "",
+      idioma: typeof p.idioma === "string" ? p.idioma : "",
+      tema: typeof p.tema === "string" ? p.tema : "",
+      sonido: typeof p.sonido === "boolean" ? p.sonido : true,
+      avatar: typeof p.avatar === "string" ? p.avatar : "avatar1",
+      metas: Array.isArray(p.metas) ? p.metas : [],
+      preferencias: Array.isArray(p.preferencias) ? p.preferencias : [],
+      __initialized: true,
+    },
+  };
+}
+
 function ensureAll(base) {
-  return ensureGamificacion(ensureCoach(base || {}));
+  return ensureGamificacion(ensureCoach(ensurePerfil(base || {})));
 }
 
 export function useResultados() {
@@ -300,6 +319,7 @@ const actualizarJuego = (claveJuego, payload) => {
         bumpTone,
         applyRewardsFromRun,
         clearRewardMeta,
+        actualizarJuego,
       }}
     >
       {children}
